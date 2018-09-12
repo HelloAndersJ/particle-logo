@@ -9,7 +9,7 @@ Install http-server globally. https://www.npmjs.com/package/http-server
 Steps:
 
 1. Global install: `npm install http-server -g`
-2. Run server: `http-server ~/[path/to/project-root]`
+2. Run server: `http-server ~/[path/to/project-root]` or if in the root `http-server`
 
 #### Screenshot
 ![Screenshoot: The result](https://raw.githubusercontent.com/HelloAndersJ/particle-logo/master/result.gif)
