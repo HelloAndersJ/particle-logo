@@ -11,6 +11,8 @@ Steps:
 1. Global install: `npm install http-server -g`
 2. Run server: `http-server ~/[path/to/project-root]` or if in the root `http-server`
 
+Open your browser using `http://127.0.0.1:8080`
+
 #### Screenshot
 ![Screenshoot: The result](https://raw.githubusercontent.com/HelloAndersJ/particle-logo/master/result.gif)
 
